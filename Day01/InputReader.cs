@@ -25,6 +25,7 @@ namespace Day1
                 }
                 else tmp += int.Parse(line);
             }
+            if (tmp > 0) values.Add(tmp); //in case of no empty line at end of file
             return values;
         }
     }
