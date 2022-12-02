@@ -1,4 +1,4 @@
-﻿using Day1;
+﻿using Day01;
 
 Console.WriteLine("Advent of code, day 1");
 
